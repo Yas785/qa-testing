@@ -1,5 +1,5 @@
 class Simple{  
     public static void main(String args[]){  
-     System.out.println("Hello Rakshpal Singh Rajawat");  
+     System.out.println("Hello Rakshpal Singh Rajawat - this is my-app application");  
     }  
 }  
